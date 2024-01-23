@@ -1,0 +1,38 @@
+tilt_sector,tilt_subsector,weo_product,weo_flow,ipr_sector,ipr_subsector
+Transport,Aviation,Total,Total Aviation (domestic and bunkers),Transport,Aviation
+Transport,Automotive LDV,Total,Road Passenger light duty vehicle,Transport ,Cars
+Transport,Automotive HDV,Total,Road Heavy-Duty Trucks,Transport,Trucks
+Transport,Shipping,Total,Total Navigation (domestic and bunkers),Transport,Shipping
+Transport,Other Transport,Total,Transport,Transport,Other Transport
+Land Use,Agriculture & Livestock,no_match,no_match,,Land Use
+Land Use,Fishing & Forestry,no_match,no_match,,Land Use
+Land Use,Food Related Products,no_match,no_match,,Land Use
+Non-metallic Minerals,Cement,Total,Non-metallic minerals: cement,Industry,Non-metallic Minerals
+Non-metallic Minerals,Other Non-metallic Minerals,Total,Industry,Industry,Non-metallic Minerals
+Metals,Iron & Steel,Total,Iron and Steel,Industry,Iron and Steel
+Metals,Other Metals,Total,Industry,Industry,Other Industry
+Construction,Construction Buildings,Total,Buildings,Buildings,
+Construction,Construction Residential,Total,Residential,Buildings,
+Industry,Chemicals,Total,Chemicals,Industry,Chemicals
+Industry,Machinery & Equipment,Total,Industry,Industry,Other Industry
+Industry,Other Industry,Total,Industry,Industry,Other Industry
+Power,Total Power,Total,Power Sector Inputs,Power,
+Power,Coal Power,Coal,Power Sector Inputs,Power,
+Power,Oil Power,Oil,Power Sector Inputs,Power,
+Power,Gas Power,Natural Gas,Power Sector Inputs,Power,
+Power,Bioenergy & Waste Power,Bioenergy and Waste,Power Sector Inputs,Power,
+Power,Renewable Power,Total,Power Sector Inputs,Power,
+Energy,Total Energy,Total,Total Energy Supply,Total,Energy
+Energy,Coal Energy,Coal,Total Energy Supply,Total,Energy
+Energy,Oil Energy,Oil,Total Energy Supply,Total,Energy
+Energy,Gas Energy,Natural Gas,Total Energy Supply,Total,Energy
+Energy,Bioenergy & Waste Energy,Bioenergy and Waste,Total Energy Supply,Total,Energy
+Energy,Renewable Energy,Total,Total Energy Supply,Total,Energy
+Energy,Other Energy,Total,Other Energy Sector,Other Energy,
+no_match,no_match,no_match,no_match,no_match,no_match
+,,Total ,Road,no_match,no_match
+,,Coal,Total final consumption,no_match,no_match
+,,Oil,Total final consumption,no_match,no_match
+,,Natural gas,Total final consumption,no_match,no_match
+,,Bioenergy and waste,Total final consumption,no_match,no_match
+,,Total ,Services,no_match,no_match

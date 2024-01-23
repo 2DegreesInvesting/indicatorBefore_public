@@ -1,0 +1,32 @@
+tilt_sector,tilt_subsector
+Transport,Aviation
+Transport,Automotive LDV
+Transport,Automotive HDV
+Transport,Shipping
+Transport,Other Transport
+Land Use,Agriculture & Livestock
+Land Use,Fishing & Forestry
+Land Use,Food Related Products
+Non-metallic Minerals,Cement
+Non-metallic Minerals,Other Non-metallic Minerals
+Metals,Iron & Steel
+Metals,Other Metals
+Construction,Construction Buildings
+Construction,Construction Residential
+Industry,Chemicals
+Industry,Machinery & Equipment
+Industry,Other Industry
+Power,Total Power
+Power,Coal Power
+Power,Oil Power
+Power,Gas Power
+Power,Bioenergy & Waste Power
+Power,Renewable Power
+Energy,Total Energy
+Energy,Coal Energy
+Energy,Oil Energy
+Energy,Gas Energy
+Energy,Bioenergy & Waste Energy
+Energy,Renewable Energy
+Energy,Other Energy
+no_match,no_match

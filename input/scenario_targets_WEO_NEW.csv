@@ -1,0 +1,349 @@
+PUBLICATION,SCENARIO,CATEGORY,PRODUCT,FLOW,UNIT,REGION,YEAR,VALUE,REDUCTIONS
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Total energy supply,Mt CO2,World,2020,31904.00,0.00
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Total energy supply,Mt CO2,World,2030,33134.70,-0.04
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Total energy supply,Mt CO2,World,2040,30799.90,0.03
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Total energy supply,Mt CO2,World,2050,28946.40,0.09
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Coal,Total energy supply,Mt CO2,World,2020,14335.20,0.00
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Coal,Total energy supply,Mt CO2,World,2030,13695.00,0.04
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Coal,Total energy supply,Mt CO2,World,2040,11553.40,0.19
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Coal,Total energy supply,Mt CO2,World,2050,9863.04,0.31
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Oil,Total energy supply,Mt CO2,World,2020,10193.70,0.00
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Oil,Total energy supply,Mt CO2,World,2030,11411.50,-0.12
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Oil,Total energy supply,Mt CO2,World,2040,11247.90,-0.10
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Oil,Total energy supply,Mt CO2,World,2050,11094.20,-0.09
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Natural gas,Total energy supply,Mt CO2,World,2020,7161.51,0.00
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Natural gas,Total energy supply,Mt CO2,World,2030,7773.69,-0.09
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Natural gas,Total energy supply,Mt CO2,World,2040,7674.74,-0.07
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Natural gas,Total energy supply,Mt CO2,World,2050,7628.53,-0.07
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Bioenergy and waste,Total energy supply,Mt CO2,World,2020,213.41,0.00
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Bioenergy and waste,Total energy supply,Mt CO2,World,2030,254.37,-0.19
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Bioenergy and waste,Total energy supply,Mt CO2,World,2040,323.65,-0.52
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Bioenergy and waste,Total energy supply,Mt CO2,World,2050,360.38,-0.69
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Power sector inputs,Mt CO2,World,2020,13502.00,0.00
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Power sector inputs,Mt CO2,World,2030,12758.60,0.06
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Power sector inputs,Mt CO2,World,2040,10676.30,0.21
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Power sector inputs,Mt CO2,World,2050,9307.74,0.31
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Coal,Power sector inputs,Mt CO2,World,2020,9750.40,0.00
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Coal,Power sector inputs,Mt CO2,World,2030,9127.98,0.06
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Coal,Power sector inputs,Mt CO2,World,2040,7281.79,0.25
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Coal,Power sector inputs,Mt CO2,World,2050,5938.44,0.39
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Oil,Power sector inputs,Mt CO2,World,2020,557.30,0.00
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Oil,Power sector inputs,Mt CO2,World,2030,371.56,0.33
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Oil,Power sector inputs,Mt CO2,World,2040,308.52,0.45
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Oil,Power sector inputs,Mt CO2,World,2050,260.29,0.53
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Natural gas,Power sector inputs,Mt CO2,World,2020,3095.24,0.00
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Natural gas,Power sector inputs,Mt CO2,World,2030,3104.66,0.00
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Natural gas,Power sector inputs,Mt CO2,World,2040,2863.26,0.07
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Natural gas,Power sector inputs,Mt CO2,World,2050,2842.10,0.08
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Bioenergy and waste,Power sector inputs,Mt CO2,World,2020,99.10,0.00
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Bioenergy and waste,Power sector inputs,Mt CO2,World,2030,154.44,-0.56
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Bioenergy and waste,Power sector inputs,Mt CO2,World,2040,222.77,-1.25
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Bioenergy and waste,Power sector inputs,Mt CO2,World,2050,266.91,-1.69
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion and process,Total,Other energy sector,Mt CO2,World,2020,1487.18,0.00
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion and process,Total,Other energy sector,Mt CO2,World,2030,1698.37,-0.14
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion and process,Total,Other energy sector,Mt CO2,World,2040,1695.49,-0.14
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion and process,Total,Other energy sector,Mt CO2,World,2050,1659.10,-0.12
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion and process,Total,Total final consumption,Mt CO2,World,2020,19521.60,0.00
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion and process,Total,Total final consumption,Mt CO2,World,2030,21627.00,-0.11
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion and process,Total,Total final consumption,Mt CO2,World,2040,21501.30,-0.10
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion and process,Total,Total final consumption,Mt CO2,World,2050,21056.10,-0.08
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Coal,Total final consumption,Mt CO2,World,2020,4474.28,0.00
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Coal,Total final consumption,Mt CO2,World,2030,4458.24,0.00
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Coal,Total final consumption,Mt CO2,World,2040,4170.37,0.07
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Coal,Total final consumption,Mt CO2,World,2050,3829.98,0.14
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Oil,Total final consumption,Mt CO2,World,2020,9080.06,0.00
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Oil,Total final consumption,Mt CO2,World,2030,10455.50,-0.15
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Oil,Total final consumption,Mt CO2,World,2040,10388.40,-0.14
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Oil,Total final consumption,Mt CO2,World,2050,10331.10,-0.14
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Natural gas,Total final consumption,Mt CO2,World,2020,3320.85,0.00
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Natural gas,Total final consumption,Mt CO2,World,2030,3800.01,-0.14
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Natural gas,Total final consumption,Mt CO2,World,2040,3929.05,-0.18
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Natural gas,Total final consumption,Mt CO2,World,2050,3904.12,-0.18
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Bioenergy and waste,Total final consumption,Mt CO2,World,2020,113.50,0.00
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Bioenergy and waste,Total final consumption,Mt CO2,World,2030,100.04,0.12
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Bioenergy and waste,Total final consumption,Mt CO2,World,2040,101.00,0.11
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Bioenergy and waste,Total final consumption,Mt CO2,World,2050,93.65,0.17
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion and process,Total,Industry,Mt CO2,World,2020,9132.22,0.00
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion and process,Total,Industry,Mt CO2,World,2030,10036.50,-0.10
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion and process,Total,Industry,Mt CO2,World,2040,10060.70,-0.10
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion and process,Total,Industry,Mt CO2,World,2050,9669.44,-0.06
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion and process,Total,Iron and steel,Mt CO2,World,2020,2724.26,0.00
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion and process,Total,Iron and steel,Mt CO2,World,2030,2929.00,-0.08
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion and process,Total,Iron and steel,Mt CO2,World,2040,2797.70,-0.03
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion and process,Total,Iron and steel,Mt CO2,World,2050,2652.97,0.03
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion and process,Total,Chemicals,Mt CO2,World,2020,1286.79,0.00
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion and process,Total,Chemicals,Mt CO2,World,2030,1492.19,-0.16
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion and process,Total,Chemicals,Mt CO2,World,2040,1492.00,-0.16
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion and process,Total,Chemicals,Mt CO2,World,2050,1429.13,-0.11
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion and process,Total,Non-metallic minerals: cement,Mt CO2,World,2020,2458.33,0.00
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion and process,Total,Non-metallic minerals: cement,Mt CO2,World,2030,2648.17,-0.08
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion and process,Total,Non-metallic minerals: cement,Mt CO2,World,2040,2699.14,-0.10
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion and process,Total,Non-metallic minerals: cement,Mt CO2,World,2050,2585.30,-0.05
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Transport,Mt CO2,World,2020,7112.95,0.00
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Transport,Mt CO2,World,2030,8471.76,-0.19
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Transport,Mt CO2,World,2040,8570.57,-0.20
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Transport,Mt CO2,World,2050,8699.66,-0.22
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Road,Mt CO2,World,2020,5484.78,0.00
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Road,Mt CO2,World,2030,6064.52,-0.11
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Road,Mt CO2,World,2040,5925.10,-0.08
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Road,Mt CO2,World,2050,5666.90,-0.03
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Road passenger light duty vehicle,Mt CO2,World,2020,2803.05,0.00
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Road passenger light duty vehicle,Mt CO2,World,2030,2961.60,-0.06
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Road passenger light duty vehicle,Mt CO2,World,2040,2760.55,0.02
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Road passenger light duty vehicle,Mt CO2,World,2050,2470.34,0.12
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Road heavy-duty trucks,Mt CO2,World,2020,1688.10,0.00
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Road heavy-duty trucks,Mt CO2,World,2030,2069.79,-0.23
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Road heavy-duty trucks,Mt CO2,World,2040,2274.16,-0.35
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Road heavy-duty trucks,Mt CO2,World,2050,2435.04,-0.44
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Total aviation (domestic and bunkers),Mt CO2,World,2020,586.31,0.00
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Total aviation (domestic and bunkers),Mt CO2,World,2030,1259.49,-1.15
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Total aviation (domestic and bunkers),Mt CO2,World,2040,1439.57,-1.46
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Total aviation (domestic and bunkers),Mt CO2,World,2050,1675.45,-1.86
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Total navigation (domestic and bunkers),Mt CO2,World,2020,795.85,0.00
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Total navigation (domestic and bunkers),Mt CO2,World,2030,904.98,-0.14
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Total navigation (domestic and bunkers),Mt CO2,World,2040,978.64,-0.23
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Total navigation (domestic and bunkers),Mt CO2,World,2050,1144.94,-0.44
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Buildings,Mt CO2,World,2020,2850.65,0.00
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Buildings,Mt CO2,World,2030,2680.33,0.06
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Buildings,Mt CO2,World,2040,2446.36,0.14
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Buildings,Mt CO2,World,2050,2293.41,0.20
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Residential,Mt CO2,World,2020,1982.94,0.00
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Residential,Mt CO2,World,2030,1746.60,0.12
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Residential,Mt CO2,World,2040,1527.82,0.23
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Residential,Mt CO2,World,2050,1415.08,0.29
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Services,Mt CO2,World,2020,867.71,0.00
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Services,Mt CO2,World,2030,933.73,-0.08
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Services,Mt CO2,World,2040,918.54,-0.06
+World Energy Outlook 2022,Stated Policies Scenario,CO2 combustion,Total,Services,Mt CO2,World,2050,878.33,-0.01
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Total energy supply,Mt CO2,World,2020,31904.00,0.00
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Total energy supply,Mt CO2,World,2030,28803.00,0.10
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Total energy supply,Mt CO2,World,2040,18554.40,0.42
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Total energy supply,Mt CO2,World,2050,11346.50,0.64
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Coal,Total energy supply,Mt CO2,World,2020,14335.20,0.00
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Coal,Total energy supply,Mt CO2,World,2030,11881.30,0.17
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Coal,Total energy supply,Mt CO2,World,2040,6594.46,0.54
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Coal,Total energy supply,Mt CO2,World,2050,2973.15,0.79
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Oil,Total energy supply,Mt CO2,World,2020,10193.70,0.00
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Oil,Total energy supply,Mt CO2,World,2030,10092.60,0.01
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Oil,Total energy supply,Mt CO2,World,2040,7169.41,0.30
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Oil,Total energy supply,Mt CO2,World,2050,5077.77,0.50
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Natural gas,Total energy supply,Mt CO2,World,2020,7161.51,0.00
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Natural gas,Total energy supply,Mt CO2,World,2030,6679.86,0.07
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Natural gas,Total energy supply,Mt CO2,World,2040,4966.95,0.31
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Natural gas,Total energy supply,Mt CO2,World,2050,3758.47,0.48
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Bioenergy and waste,Total energy supply,Mt CO2,World,2020,213.41,0.00
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Bioenergy and waste,Total energy supply,Mt CO2,World,2030,149.19,0.30
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Bioenergy and waste,Total energy supply,Mt CO2,World,2040,-176.46,1.83
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Bioenergy and waste,Total energy supply,Mt CO2,World,2050,-462.91,3.17
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Power sector inputs,Mt CO2,World,2020,13502.00,0.00
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Power sector inputs,Mt CO2,World,2030,11329.90,0.16
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Power sector inputs,Mt CO2,World,2040,6389.13,0.53
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Power sector inputs,Mt CO2,World,2050,3137.67,0.77
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Coal,Power sector inputs,Mt CO2,World,2020,9750.40,0.00
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Coal,Power sector inputs,Mt CO2,World,2030,8163.43,0.16
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Coal,Power sector inputs,Mt CO2,World,2040,4291.95,0.56
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Coal,Power sector inputs,Mt CO2,World,2050,1712.59,0.82
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Oil,Power sector inputs,Mt CO2,World,2020,557.30,0.00
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Oil,Power sector inputs,Mt CO2,World,2030,322.08,0.42
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Oil,Power sector inputs,Mt CO2,World,2040,230.35,0.59
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Oil,Power sector inputs,Mt CO2,World,2050,155.86,0.72
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Natural gas,Power sector inputs,Mt CO2,World,2020,3095.24,0.00
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Natural gas,Power sector inputs,Mt CO2,World,2030,2759.41,0.11
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Natural gas,Power sector inputs,Mt CO2,World,2040,2021.73,0.35
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Natural gas,Power sector inputs,Mt CO2,World,2050,1597.93,0.48
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Bioenergy and waste,Power sector inputs,Mt CO2,World,2020,99.10,0.00
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Bioenergy and waste,Power sector inputs,Mt CO2,World,2030,84.93,0.14
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Bioenergy and waste,Power sector inputs,Mt CO2,World,2040,-154.91,2.56
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Bioenergy and waste,Power sector inputs,Mt CO2,World,2050,-328.71,4.32
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion and process,Total,Other energy sector,Mt CO2,World,2020,1487.18,0.00
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion and process,Total,Other energy sector,Mt CO2,World,2030,1334.09,0.10
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion and process,Total,Other energy sector,Mt CO2,World,2040,730.29,0.51
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion and process,Total,Other energy sector,Mt CO2,World,2050,191.20,0.87
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion and process,Total,Total final consumption,Mt CO2,World,2020,19521.60,0.00
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion and process,Total,Total final consumption,Mt CO2,World,2030,18784.80,0.04
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion and process,Total,Total final consumption,Mt CO2,World,2040,13438.20,0.31
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion and process,Total,Total final consumption,Mt CO2,World,2050,9123.89,0.53
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Coal,Total final consumption,Mt CO2,World,2020,4474.28,0.00
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Coal,Total final consumption,Mt CO2,World,2030,3621.14,0.19
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Coal,Total final consumption,Mt CO2,World,2040,2239.15,0.50
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Coal,Total final consumption,Mt CO2,World,2050,1238.78,0.72
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Oil,Total final consumption,Mt CO2,World,2020,9080.06,0.00
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Oil,Total final consumption,Mt CO2,World,2030,9302.23,-0.02
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Oil,Total final consumption,Mt CO2,World,2040,6669.63,0.27
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Oil,Total final consumption,Mt CO2,World,2050,4754.88,0.48
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Natural gas,Total final consumption,Mt CO2,World,2020,3320.85,0.00
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Natural gas,Total final consumption,Mt CO2,World,2030,3225.17,0.03
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Natural gas,Total final consumption,Mt CO2,World,2040,2464.88,0.26
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Natural gas,Total final consumption,Mt CO2,World,2050,1803.36,0.46
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Bioenergy and waste,Total final consumption,Mt CO2,World,2020,113.50,0.00
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Bioenergy and waste,Total final consumption,Mt CO2,World,2030,64.43,0.43
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Bioenergy and waste,Total final consumption,Mt CO2,World,2040,-21.03,1.19
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Bioenergy and waste,Total final consumption,Mt CO2,World,2050,-124.93,2.10
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion and process,Total,Industry,Mt CO2,World,2020,9132.22,0.00
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion and process,Total,Industry,Mt CO2,World,2030,8569.29,0.06
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion and process,Total,Industry,Mt CO2,World,2040,6233.70,0.32
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion and process,Total,Industry,Mt CO2,World,2050,3946.03,0.57
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion and process,Total,Iron and steel,Mt CO2,World,2020,2724.26,0.00
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion and process,Total,Iron and steel,Mt CO2,World,2030,2511.52,0.08
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion and process,Total,Iron and steel,Mt CO2,World,2040,1807.75,0.34
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion and process,Total,Iron and steel,Mt CO2,World,2050,1119.84,0.59
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion and process,Total,Chemicals,Mt CO2,World,2020,1286.79,0.00
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion and process,Total,Chemicals,Mt CO2,World,2030,1314.62,-0.02
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion and process,Total,Chemicals,Mt CO2,World,2040,925.04,0.28
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion and process,Total,Chemicals,Mt CO2,World,2050,547.97,0.57
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion and process,Total,Non-metallic minerals: cement,Mt CO2,World,2020,2458.33,0.00
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion and process,Total,Non-metallic minerals: cement,Mt CO2,World,2030,2328.63,0.05
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion and process,Total,Non-metallic minerals: cement,Mt CO2,World,2040,1758.41,0.28
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion and process,Total,Non-metallic minerals: cement,Mt CO2,World,2050,1084.10,0.56
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Transport,Mt CO2,World,2020,7112.95,0.00
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Transport,Mt CO2,World,2030,7616.07,-0.07
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Transport,Mt CO2,World,2040,5556.61,0.22
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Transport,Mt CO2,World,2050,4024.76,0.43
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Road,Mt CO2,World,2020,5484.78,0.00
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Road,Mt CO2,World,2030,5458.55,0.00
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Road,Mt CO2,World,2040,3772.68,0.31
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Road,Mt CO2,World,2050,2508.61,0.54
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Road passenger light duty vehicle,Mt CO2,World,2020,2803.05,0.00
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Road passenger light duty vehicle,Mt CO2,World,2030,2588.60,0.08
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Road passenger light duty vehicle,Mt CO2,World,2040,1597.82,0.43
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Road passenger light duty vehicle,Mt CO2,World,2050,996.87,0.64
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Road heavy-duty trucks,Mt CO2,World,2020,1688.10,0.00
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Road heavy-duty trucks,Mt CO2,World,2030,1909.47,-0.13
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Road heavy-duty trucks,Mt CO2,World,2040,1548.75,0.08
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Road heavy-duty trucks,Mt CO2,World,2050,1137.45,0.33
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Total aviation (domestic and bunkers),Mt CO2,World,2020,586.31,0.00
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Total aviation (domestic and bunkers),Mt CO2,World,2030,1196.89,-1.04
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Total aviation (domestic and bunkers),Mt CO2,World,2040,1135.75,-0.94
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Total aviation (domestic and bunkers),Mt CO2,World,2050,1073.76,-0.83
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Total navigation (domestic and bunkers),Mt CO2,World,2020,795.85,0.00
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Total navigation (domestic and bunkers),Mt CO2,World,2030,778.33,0.02
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Total navigation (domestic and bunkers),Mt CO2,World,2040,524.75,0.34
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Total navigation (domestic and bunkers),Mt CO2,World,2050,361.89,0.55
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Buildings,Mt CO2,World,2020,2850.65,0.00
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Buildings,Mt CO2,World,2030,2266.82,0.20
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Buildings,Mt CO2,World,2040,1434.38,0.50
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Buildings,Mt CO2,World,2050,1029.49,0.64
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Residential,Mt CO2,World,2020,1982.94,0.00
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Residential,Mt CO2,World,2030,1558.57,0.21
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Residential,Mt CO2,World,2040,1002.23,0.49
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Residential,Mt CO2,World,2050,747.73,0.62
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Services,Mt CO2,World,2020,867.71,0.00
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Services,Mt CO2,World,2030,708.25,0.18
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Services,Mt CO2,World,2040,432.15,0.50
+World Energy Outlook 2022,Announced Pledges Scenario,CO2 combustion,Total,Services,Mt CO2,World,2050,281.77,0.68
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Total energy supply,Mt CO2,World,2020,31904.00,0.00
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Total energy supply,Mt CO2,World,2030,20590.40,0.35
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Total energy supply,Mt CO2,World,2040,5103.27,0.84
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Total energy supply,Mt CO2,World,2050,509.63,0.98
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Coal,Total energy supply,Mt CO2,World,2020,14335.20,0.00
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Coal,Total energy supply,Mt CO2,World,2030,7578.32,0.47
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Coal,Total energy supply,Mt CO2,World,2040,1140.44,0.92
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Coal,Total energy supply,Mt CO2,World,2050,114.27,0.99
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Oil,Total energy supply,Mt CO2,World,2020,10193.70,0.00
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Oil,Total energy supply,Mt CO2,World,2030,7710.44,0.24
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Oil,Total energy supply,Mt CO2,World,2040,3029.61,0.70
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Oil,Total energy supply,Mt CO2,World,2050,722.15,0.93
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Natural gas,Total energy supply,Mt CO2,World,2020,7161.51,0.00
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Natural gas,Total energy supply,Mt CO2,World,2030,5282.33,0.26
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Natural gas,Total energy supply,Mt CO2,World,2040,1390.91,0.81
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Natural gas,Total energy supply,Mt CO2,World,2050,404.67,0.94
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Bioenergy and waste,Total energy supply,Mt CO2,World,2020,213.41,0.00
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Bioenergy and waste,Total energy supply,Mt CO2,World,2030,19.34,0.91
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Bioenergy and waste,Total energy supply,Mt CO2,World,2040,-457.68,3.14
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Bioenergy and waste,Total energy supply,Mt CO2,World,2050,-731.46,4.43
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Power sector inputs,Mt CO2,World,2020,13502.00,0.00
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Power sector inputs,Mt CO2,World,2030,7076.47,0.48
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Power sector inputs,Mt CO2,World,2040,-188.61,1.01
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Power sector inputs,Mt CO2,World,2050,-350.78,1.03
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Coal,Power sector inputs,Mt CO2,World,2020,9750.40,0.00
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Coal,Power sector inputs,Mt CO2,World,2030,4653.48,0.52
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Coal,Power sector inputs,Mt CO2,World,2040,48.73,1.00
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Coal,Power sector inputs,Mt CO2,World,2050,26.65,1.00
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Oil,Power sector inputs,Mt CO2,World,2020,557.30,0.00
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Oil,Power sector inputs,Mt CO2,World,2030,167.39,0.70
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Oil,Power sector inputs,Mt CO2,World,2040,17.80,0.97
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Oil,Power sector inputs,Mt CO2,World,2050,2.34,1.00
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Natural gas,Power sector inputs,Mt CO2,World,2020,3095.24,0.00
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Natural gas,Power sector inputs,Mt CO2,World,2030,2264.18,0.27
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Natural gas,Power sector inputs,Mt CO2,World,2040,79.99,0.97
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Natural gas,Power sector inputs,Mt CO2,World,2050,41.69,0.99
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Bioenergy and waste,Power sector inputs,Mt CO2,World,2020,99.10,0.00
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Bioenergy and waste,Power sector inputs,Mt CO2,World,2030,-8.58,1.09
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Bioenergy and waste,Power sector inputs,Mt CO2,World,2040,-335.13,4.38
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Bioenergy and waste,Power sector inputs,Mt CO2,World,2050,-421.46,5.25
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion and process,Total,Other energy sector,Mt CO2,World,2020,1487.18,0.00
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion and process,Total,Other energy sector,Mt CO2,World,2030,965.62,0.35
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion and process,Total,Other energy sector,Mt CO2,World,2040,112.33,0.92
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion and process,Total,Other energy sector,Mt CO2,World,2050,-266.45,1.18
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion and process,Total,Total final consumption,Mt CO2,World,2020,19521.60,0.00
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion and process,Total,Total final consumption,Mt CO2,World,2030,14765.00,0.24
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion and process,Total,Total final consumption,Mt CO2,World,2040,6092.07,0.69
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion and process,Total,Total final consumption,Mt CO2,World,2050,1004.68,0.95
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Coal,Total final consumption,Mt CO2,World,2020,4474.28,0.00
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Coal,Total final consumption,Mt CO2,World,2030,2835.23,0.37
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Coal,Total final consumption,Mt CO2,World,2040,1043.45,0.77
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Coal,Total final consumption,Mt CO2,World,2050,72.92,0.98
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Oil,Total final consumption,Mt CO2,World,2020,9080.06,0.00
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Oil,Total final consumption,Mt CO2,World,2030,7162.05,0.21
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Oil,Total final consumption,Mt CO2,World,2040,2864.50,0.68
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Oil,Total final consumption,Mt CO2,World,2050,650.79,0.93
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Natural gas,Total final consumption,Mt CO2,World,2020,3320.85,0.00
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Natural gas,Total final consumption,Mt CO2,World,2030,2490.73,0.25
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Natural gas,Total final consumption,Mt CO2,World,2040,1094.30,0.67
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Natural gas,Total final consumption,Mt CO2,World,2050,213.23,0.94
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Bioenergy and waste,Total final consumption,Mt CO2,World,2020,113.50,0.00
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Bioenergy and waste,Total final consumption,Mt CO2,World,2030,28.89,0.75
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Bioenergy and waste,Total final consumption,Mt CO2,World,2040,-96.18,1.85
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Bioenergy and waste,Total final consumption,Mt CO2,World,2050,-204.82,2.80
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion and process,Total,Industry,Mt CO2,World,2020,9132.22,0.00
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion and process,Total,Industry,Mt CO2,World,2030,7167.71,0.22
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion and process,Total,Industry,Mt CO2,World,2040,3246.05,0.64
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion and process,Total,Industry,Mt CO2,World,2050,395.78,0.96
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion and process,Total,Iron and steel,Mt CO2,World,2020,2724.26,0.00
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion and process,Total,Iron and steel,Mt CO2,World,2030,2090.54,0.23
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion and process,Total,Iron and steel,Mt CO2,World,2040,965.05,0.65
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion and process,Total,Iron and steel,Mt CO2,World,2050,176.88,0.94
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion and process,Total,Chemicals,Mt CO2,World,2020,1286.79,0.00
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion and process,Total,Chemicals,Mt CO2,World,2030,1137.24,0.12
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion and process,Total,Chemicals,Mt CO2,World,2040,545.83,0.58
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion and process,Total,Chemicals,Mt CO2,World,2050,38.48,0.97
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion and process,Total,Non-metallic minerals: cement,Mt CO2,World,2020,2458.33,0.00
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion and process,Total,Non-metallic minerals: cement,Mt CO2,World,2030,1910.46,0.22
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion and process,Total,Non-metallic minerals: cement,Mt CO2,World,2040,869.02,0.65
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion and process,Total,Non-metallic minerals: cement,Mt CO2,World,2050,75.50,0.97
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Transport,Mt CO2,World,2020,7112.95,0.00
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Transport,Mt CO2,World,2030,5687.01,0.20
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Transport,Mt CO2,World,2040,2258.20,0.68
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Transport,Mt CO2,World,2050,535.16,0.92
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Road,Mt CO2,World,2020,5484.78,0.00
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Road,Mt CO2,World,2030,3987.84,0.27
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Road,Mt CO2,World,2040,1369.97,0.75
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Road,Mt CO2,World,2050,195.03,0.96
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Road passenger light duty vehicle,Mt CO2,World,2020,2803.05,0.00
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Road passenger light duty vehicle,Mt CO2,World,2030,1690.99,0.40
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Road passenger light duty vehicle,Mt CO2,World,2040,421.66,0.85
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Road passenger light duty vehicle,Mt CO2,World,2050,45.34,0.98
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Road heavy-duty trucks,Mt CO2,World,2020,1688.10,0.00
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Road heavy-duty trucks,Mt CO2,World,2030,1574.26,0.07
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Road heavy-duty trucks,Mt CO2,World,2040,745.58,0.56
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Road heavy-duty trucks,Mt CO2,World,2050,136.12,0.92
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Total aviation (domestic and bunkers),Mt CO2,World,2020,586.31,0.00
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Total aviation (domestic and bunkers),Mt CO2,World,2030,884.21,-0.51
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Total aviation (domestic and bunkers),Mt CO2,World,2040,511.02,0.13
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Total aviation (domestic and bunkers),Mt CO2,World,2050,199.44,0.66
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Total navigation (domestic and bunkers),Mt CO2,World,2020,795.85,0.00
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Total navigation (domestic and bunkers),Mt CO2,World,2030,673.37,0.15
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Total navigation (domestic and bunkers),Mt CO2,World,2040,303.78,0.62
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Total navigation (domestic and bunkers),Mt CO2,World,2050,107.10,0.87
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Buildings,Mt CO2,World,2020,2850.65,0.00
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Buildings,Mt CO2,World,2030,1631.91,0.43
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Buildings,Mt CO2,World,2040,474.58,0.83
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Buildings,Mt CO2,World,2050,55.36,0.98
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Residential,Mt CO2,World,2020,1982.94,0.00
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Residential,Mt CO2,World,2030,1197.40,0.40
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Residential,Mt CO2,World,2040,368.88,0.81
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Residential,Mt CO2,World,2050,54.61,0.97
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Services,Mt CO2,World,2020,867.71,0.00
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Services,Mt CO2,World,2030,434.51,0.50
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Services,Mt CO2,World,2040,105.70,0.88
+World Energy Outlook 2022,Net Zero Emissions by 2050 Scenario,CO2 combustion,Total,Services,Mt CO2,World,2050,0.75,1.00
