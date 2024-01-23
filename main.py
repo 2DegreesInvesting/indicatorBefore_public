@@ -7,11 +7,6 @@ targets_weo_raw = LoadData.get_targets_weo_raw(path + "scenario_targets_WEO_NEW.
 isic_tilt_mapper = LoadData.get_isic_tilt_mapper(path + "tilt_isic_mapper_2023-07-20.csv")
 tilt_weo_ipr_mapper = LoadData.get_tilt_weo_ipr_mapper(path + "scenario_tilt_mapper_2023-07-20.csv")
 sector_resolve = LoadData.get_sector_resolve(path + "sector_resolve_without_tiltsector.csv", path + "tilt_sector_classification.csv")
-
-# Final Output files which are also required as input
-# The path in `ep_companies` Class argument is a local path that needs to be changed where all the tiltData files are stored in the local directory.
-# ep_companies = EPCompanies("Please change the directory path").get_ep_companies()
-# mapper_ep_ei = LoadData.get_mapper_ep_ei(path + "ep_ei_matcher.csv")
 ep_companies = pd.read_csv('input/sample_ep_companies.csv')
 
 years = [2030, 2050]
