@@ -8,33 +8,15 @@ Welcome to the Tilt IndicatorBefore! This repository contains a Python codebase 
 
 The repository includes functions to load various input datasets, such as:
 - Raw europages companies data
-- Raw ecoinvent input data
-- Ecoinvent inputs overview
-- Ecoinvent activities IDs
-- Ecoinvent activities CO2 emissions data
 - Scenario targets for different scenarios (IPR and WEO)
 - Mapping data for ISIC codes, tilt, and scenarios
 - Sector resolution data
-- Input geography filters
-- NLP matching data from europages to ecoinvent
 
 
-#### 2. Processing
-
-The code performs intermediate and final data processing, including:
-- Loading and processing of EP (Europages) companies data
-- Matching and mapping EP and ecoinvent data
-- Generating intermediate outputs for companies and products
-- Generating final outputs for activities overview, input data, emissions profile input data, sector profile input data.
-- Calculating emissions profiles for ecoinvent products and input products
-
-#### 3. Scenario Preparation
+#### 2. Scenario Preparation
 
 The code prepares and combines scenario targets for specified years (2030, 2050) based on IPR (1.5C Required Policy Scenario) and WEO (Net Zero Emissions by 2050 Scenario) scenarios.
 
-#### 4. Output Generation
-
-The repository provides functionality to generate CSV outputs for various processed dataframes, such as ecoinvent input data, EP companies, mapping data, activities overview, sector profiles, and emissions profiles.
 
 ### Getting Started
 
@@ -68,7 +50,7 @@ python --version
 ```` Shell
 ./setup_and_run_alt.ps1
 ````
-9. The package will run between 5-10 minutes, after which the output of the package will be stored in "/output/"
+9. The output of the package will be stored in "/output/"
 
 10. In case you'd like to dive into the coding details, you can install VSCode from:
 https://code.visualstudio.com/download
