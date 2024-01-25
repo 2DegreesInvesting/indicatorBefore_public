@@ -1,6 +1,6 @@
 # tiltIndicatorBefore
 
-Welcome to the Tilt IndicatorBefore! This repository contains a Python codebase designed to analyze and process tilt data for environmental impact assessments. The code leverages the `tiltIndicatorBefore` module and various data loading functions to handle input data related to ecoinvent, companies, sectors, and more.
+Welcome to a lite version of Tilt IndicatorBefore! This repository contains a Python codebase designed to analyze and process tilt data for environmental impact assessments.
 
 ### Key Components
 
@@ -9,8 +9,7 @@ Welcome to the Tilt IndicatorBefore! This repository contains a Python codebase 
 The repository includes functions to load various input datasets, such as:
 - Raw europages companies data
 - Scenario targets for different scenarios (IPR and WEO)
-- Mapping data for ISIC codes, tilt, and scenarios
-- Sector resolution data
+- Mapping data for ISIC codes, tilt, and scenarion
 
 
 #### 2. Scenario Preparation
@@ -38,7 +37,7 @@ git clone https://github.com/2DegreesInvesting/indicatorBefore_public.git
 ```` Shell
 Set-Location -Path "\path\to\cloned\repository"
 ````
-6. Run the following command in PowerShell:
+6. Run the fowing command in PowerShell:
 ```` Shell
 python --version
 ````
