@@ -1,6 +1,6 @@
-# tiltIndicatorBefore
+# tiltIndicatorBefore test repo
 
-Welcome to a lite version of Tilt IndicatorBefore! This repository contains a Python codebase designed to analyze and process tilt data for environmental impact assessments.
+Welcome to a test repository of Tilt IndicatorBefore! This repository contains a Python codebase designed to analyze and process tilt data for environmental impact assessments.
 
 ### Key Components
 
